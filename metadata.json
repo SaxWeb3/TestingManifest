@@ -2,7 +2,7 @@
   "name": "Exodia the Forbidden One",
   "symbol": "EXODIA",
   "description": "A legendary entity sealed away. Whoever assembles its parts commands unstoppable power.",
-  "image": "https://github.com/SaxWeb3/TestingManifest/blob/main/nft.png?raw=true", 
+  "image": "https://raw.githubusercontent.com/SaxWeb3/TestingManifest/refs/heads/main/nft.png", 
   "external_url": "https://www.yugioh-card.com/en/",
   "seller_fee_basis_points": 500,
   "attributes": [
@@ -11,7 +11,7 @@
   ],
   "properties": {
     "files": [
-      { "uri": "https://github.com/SaxWeb3/TestingManifest/blob/main/nft.png?raw=true", "type": "image/png" }
+      { "uri": "https://raw.githubusercontent.com/SaxWeb3/TestingManifest/refs/heads/main/nft.png", "type": "image/png" }
     ],
     "creators": [
       { "address": "DCQnfUH6mHA333mzkU22b4hMvyqcejUBociodq8bB5HF", "share": 100 }
