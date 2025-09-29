@@ -1,0 +1,20 @@
+{
+  "name": "Exodia the Forbidden One",
+  "symbol": "EXODIA",
+  "description": "A legendary entity sealed away. Whoever assembles its parts commands unstoppable power.",
+  "image": "ipfs://QmXPwQJrDxQE9ZRQPBeCAT8joR8Yh5oXzUgt85bfB42q5w", 
+  "external_url": "https://www.yugioh-card.com/en/",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Mythical" },
+    { "trait_type": "Part", "value": "Head" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "ipfs://QmXPwQJrDxQE9ZRQPBeCAT8joR8Yh5oXzUgt85bfB42q5w", "type": "image/png" }
+    ],
+    "creators": [
+      { "address": "DCQnfUH6mHA333mzkU22b4hMvyqcejUBociodq8bB5HF", "share": 100 }
+    ]
+  }
+}
